@@ -4,14 +4,13 @@ console.log('imprimir por consola')
 
 alert('mostrar por alert')
 
-const username = prompt('Introduce tu nombre')
+const username = prompt('Introduce tu nombre', 'default name')
 
 console.log(username)
 
 const over18 = confirm('Eres mayor de 18?')
 
 console.log(over18)
-
 
 // Interactuar DOM
 

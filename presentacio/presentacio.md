@@ -2,9 +2,9 @@
 
 En el curs de fonaments, l'objectiu és donar una base per poder entrar en l'especialització i poder centrar-se en el que en la següent fase aprendran. Aquesta base consisteix a aprendre un llenguatge de programació, en aquest cas javascript.
 
-Aquest curs és amb classe magistral, on s'ensenya el llenguatge, com aplicar-ho a exercicis lògics i d'algorítmia.
+Aquest curs és amb classe magistral, on s'ensenya el llenguatge i com aplicar-ho a exercicis lògics i d'algorítmia.
 
-Per a molts i moltes de les alumnes aquest curs és un dels primers contactes amb el món de la programació, així que els propòsits també són conèixer quina és la funció d'un programador o programadora, i, per tant, s'ensenya eines i entorns del dia a dia (terminal, git, markdown, documentació, dev tools, el servidor, pensament lògic...).
+Per a molts i moltes de les alumnes aquest curs és un dels primers contactes amb el món de la programació, així que els propòsits també són conèixer quina és la funció d'un programador o programadora, i, per tant, s'ensenyen eines i entorns del dia a dia (terminal, git, markdown, documentació, dev tools, el servidor, pensament lògic...).
 
 Un cop superada aquesta fase, s'està preparant per començar l'especialització.
 
@@ -18,33 +18,3 @@ Un cop superada aquesta fase, s'està preparant per començar l'especialització
 - Treballar amb funcions
 - Entendre i ser capaç de programar amb POO
 
-## 5 consells per a un/a futur/a programador/a:
-
-### **1. Lògica en la programació** 
-
-La base per programar és, senzillament, ser molt lògics, és a dir, poder visualitzar el camí més OBVI i més FÀCIL per aconseguir un objectiu.
-
-***L'esència de la lògica de la programació, Omar Trejos Buritrica***
-
-### **2. Baby Steps**
-
-El següent pas a fer sempre ha de ser el més petit possible. 
-
-Sí, el més petit possible.
-
-[Codingdojo](https://codingdojo.org/BabySteps/)
-
->***El viatge de mil milles comença per sota dels teus peus. ...acomplir la gran tasca per una sèrie de petits actes.***
->
-> — Tao Te Ching
-
-### **3. Tothom pot ser programador/a**
-
-[Coneixement + Habilitats * Actitud](https://itservice.com.co/formula-victor-kuppers-conocimiento-habilidades-y-actitud/)
-
-[Discurs Steve Jobs, Stanford](https://www.youtube.com/watch?v=HHkJEz_HdTg)
-
-
-### **4. Networking**
-
-### **5. Google**

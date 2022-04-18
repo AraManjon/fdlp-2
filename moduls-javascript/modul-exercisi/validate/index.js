@@ -1,5 +1,6 @@
-export const validateNumber = (number) => {
-    if ( typeof number !== 'number' ) console.error(`Value ${number} is not a number`)
+export const validateNumber = (value) => {
+    const num = Number(value)
+    if (isNaN(num)) throw new Error(`Value ${value} is not a number`)
 }
 
 

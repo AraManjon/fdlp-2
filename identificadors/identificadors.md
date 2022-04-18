@@ -1,6 +1,5 @@
-# FONAMENTS DE LA PROGRAMACIÓ AMB JAVASCRIPT
+# IDENTIFICADORS
 
-## **Identificador**
 Una seqüència de caràcters en el codi que serveixen per identificar una variable, una funció o una propietat.
 
 Notes: 
@@ -15,62 +14,66 @@ Notes:
 ### **Noms pronunciables i expressius**
 ```
 //bad
-const yyyymmdstr = moment().format('YYYY/MM/DD');
+const yyyymmdstr = moment().format('YYYY/MM/DD')
+
 //better
-const currentDate = moment().format('YYYY/MM/DD');
+const currentDate = moment().format('YYYY/MM/DD')
 ```
 
 Notes:
 > - Ausència d'informació tècnica en els nombres (AbstractUser)
 > - Establir un llenguatge ubicup (user, client, customer..)
->
 
-### **Noms segons el tipus de dada**
-------
-#### Arrays
+## **Noms segons el tipus de dada**
+
+### Arrays
 
 Llistes d'elements d'un mateix tipus.
 
 ```
 //bad
-const fruit = ['manzana','platano','fresa'];
+const fruit = ['poma','platan','maduixa']
+
 //regular
-const fruitList = ['manzana','platano','fresa'];
+const fruitList = ['poma','platan','maduixa']
+
 //good
-const fruits = ['manzana','platano','fresa'];
+const fruits = ['poma','platan','maduixa']
+
 //better
-const fruitNames = ['manzana','platano','fresa'];
+const fruitNames = ['poma','platan','maduixa']
 ```
 
-#### Booleans
+### Booleans
 
 Només pot tenir dos valors.
 ```
 //bad
-let open = true;
-let write = true;
-let fruit = true;
+let open = true
+let write = true
+let fruit = true
 
 //good
-let isOpen = true;
-let canWrite = true;
-let hasFruit = true;
+let isOpen = true
+let canWrite = true
+let hasFruit = true
 ```
-#### Número
+
+### Número
 
 Escollir paraules que descriguin número, com min, max o total:
 
 ```
 //bad
-const fruits = 3;
+const fruits = 3
 
 //better
-const maxFruits = 5;
-const minFruits = 1;
-const totalFruits = 3;
+const maxFruits = 5
+const minFruits = 1
+const totalFruits = 3
 ```
 
-#### Funcions
+### Funcions
 
 El nom de la funció ha d'expressar el que fa, però també cal abstreure's de la implementació de la funció.
 
@@ -90,7 +93,7 @@ Notes:
 > - accés, modificació o predicat = get, set, is
 > - Fer ús de les paraules clau get i set quan accedim a propietats d'objectes.
 
-#### Objectes i Classes
+### Objectes i Classes
 
 Han de tenir noms formats per un substantiu o frases de substantiu com User, UserProfile, Account o AdressParser...
 

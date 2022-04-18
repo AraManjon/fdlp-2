@@ -1,4 +1,4 @@
-# FONAMENTS DE LA PROGRAMACIÓ AMB JAVASCRIPT
+# OPERADORS
 
 ###  **Comparació**
 Tots els operadors de comparació retornen un valor boolean:
@@ -28,7 +28,6 @@ console.log( 'Z' > 'A' ); // true
 console.log( 'Glow' > 'Glee' ); // true
 console.log( 'Bee' > 'Be' ); // true
 ```
-
 
 🚨 Per comprovar la igualtat de dos valors també existeix amb ```==``` o ```!=```, en aquest cas no compara tipus, és per això que no es recomana fer servir.
 
