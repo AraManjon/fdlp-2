@@ -95,9 +95,9 @@ x [oop](./oop/oop.md)
 
 // TODO
 
-Un nou mòdul on incloure com crear moduls mb javascript?
+Un nou mòdul on incloure com crear moduls amb javascript?
 
 x [exemple com crear mòduls amb javascript](./moduls-javascript/modul-exercisi/)
 
-Tactar modul funcions i mètodes arrays com a un mòdul de programació funcional
+Tactar modul funcions i mètodes arrays com a un mòdul de programació funcional?
 
